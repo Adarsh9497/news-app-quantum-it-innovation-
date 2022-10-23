@@ -1,16 +1,11 @@
 # quantum_it_assignment
 
-A new Flutter project.
+A flutter android application that has features like:
+1. Top Articles in the users region (using news api)
+2. Search for an article (using news api)
+3. Login and Sign up user (firebase authentication)
+4. Logout functionality 
+5. Read full content of the news by clicking on the news card
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Submitted by - Adarsh Soni
+Video desmostrating the app functionality:
