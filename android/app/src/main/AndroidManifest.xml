@@ -1,9 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="adarsh.assignment.quantum_it_assignment">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="quantum_it_assignment"
+        android:label="Quantum News"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
