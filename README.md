@@ -8,5 +8,7 @@ A flutter android application that has features like:
 5. Read full content of the news by clicking on the news card
 
 Submitted by - Adarsh Soni
+
+
 Video desmostrating the app functionality:
 https://youtu.be/9eqzPDH4TZs
